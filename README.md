@@ -1,7 +1,8 @@
 
 # Anagram
 
-Purpose: 
+Purpose:
+
 The purpose of anagram.java is to take an input file specified by the user 
 and find all anagrams contained within the file itself. It will parse the 
 user's file comparing all words to each other to find the anagrams contained. 
@@ -25,6 +26,7 @@ Solution:
    capitalization with their corresponding anagrams
    
 I/O: 
+
 The program will simply take the name of a file containing text and return an output file containing 
 all anagrams. A user would just enter the name of their filesand when the program has completed 
 successfully an output file will be made.
